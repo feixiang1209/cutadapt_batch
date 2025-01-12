@@ -5,11 +5,17 @@ How to use.
 
 Mac/linux   
 1. Download and install python3, then install easygui 
-pip3 install easygui
+
+`pip3 install easygui`
+
 2. Navigate to the folder with the fastq files using “cd” and get the folder path using “pwd” 
-pwd
+
+`pwd`
+
 3. Run the script
-python3 cutadapt_batch-mac-linux.py
+
+`python3 cutadapt_batch-mac-linux.py`
+
 4. In the pop up window, fill the required filds
 ![image](https://github.com/user-attachments/assets/7169807e-e17b-41ee-8a7b-10915c207a7f)
 "Path of the DATA", fill the path just got from "pwd".
@@ -18,11 +24,17 @@ python3 cutadapt_batch-mac-linux.py
 
 Windows   
 1. Download and install python3, then install easygui 
-pip3 install easygui
+
+`pip3 install easygui`
+
 2. Navigate to the folder with the fastq files using “cd” and get the folder path using “pwd” 
-cd
+
+`cd`
+
 3. Run the script
-python cutadapt_batch-windows.py
+
+`python cutadapt_batch-windows.py`
+
 4. In the pop up window, fill the required filds
 ![image](https://github.com/user-attachments/assets/7169807e-e17b-41ee-8a7b-10915c207a7f)
 "Path of the DATA", fill the path just got from "pwd".
