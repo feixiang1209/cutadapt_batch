@@ -19,8 +19,11 @@ Mac/linux
 4. In the pop up window, fill the required filds
 ![image](https://github.com/user-attachments/assets/7169807e-e17b-41ee-8a7b-10915c207a7f)
 "Path of the DATA", fill the path just got from "pwd".
+
 "Sequence of F primer" "Sequence of F primer", fill the primer sequence.
+
 "Filename of any of R1 files", find any fastq file from read 1, and copy the whole file name here.
+
 
 Windows   
 1. Download and install python3, then install easygui in cmd
@@ -38,6 +41,8 @@ Windows
 4. In the pop up window, fill the required filds
 ![image](https://github.com/user-attachments/assets/7169807e-e17b-41ee-8a7b-10915c207a7f)
 "Path of the DATA", fill the path just got from "pwd".
+
 "Sequence of F primer" "Sequence of F primer", fill the primer sequence.
+
 "Filename of any of R1 files", find any fastq file from read 1, and copy the whole file name here.
 
