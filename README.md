@@ -1,5 +1,5 @@
 # cutadapt_batch
-Cutadapt is a crucial tool for trimming adapters and contaminants from high-throughput sequencing data, typically requiring command-line interactions which might pose a challenge for users unfamiliar with Linux environments. To facilitate a more user-friendly experience, especially for beginners or those without extensive command-line expertise, a specialized script has been developed. This script automates the process of running Cutadapt for multiple samples, eliminating the need to manually input commands for each dataset.
+Cutadapt is a crucial tool for trimming adapters and contaminants from high-throughput sequencing data, typically requiring command-line interactions which might pose a challenge for users unfamiliar with Linux environments. To facilitate a more user-friendly experience, especially for beginners or those without extensive command-line expertise, a specialized script has been developed. This script automates the process of running Cutadapt for multiple samples (designed for amplicon analysis), eliminating the need to manually input commands for each dataset.
 
 How to use.
 
