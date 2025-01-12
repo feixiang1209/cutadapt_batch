@@ -4,15 +4,15 @@ Cutadapt is a crucial tool for trimming adapters and contaminants from high-thro
 How to use.
 
 Mac/linux   
-1. Download and install python3, then install easygui 
+1. Download and install python3, then install easygui in terminal
 
 `pip3 install easygui`
 
-2. Navigate to the folder with the fastq files using “cd” and get the folder path using “pwd” 
+2. In terminal navigate to the folder with the fastq files using “cd” and get the folder path using “pwd” 
 
 `pwd`
 
-3. Run the script
+3. Run the script in terminal
 
 `python3 cutadapt_batch-mac-linux.py`
 
@@ -23,15 +23,15 @@ Mac/linux
 "Filename of any of R1 files", find any fastq file from read 1, and copy the whole file name here.
 
 Windows   
-1. Download and install python3, then install easygui 
+1. Download and install python3, then install easygui in cmd
 
 `pip3 install easygui`
 
-2. Navigate to the folder with the fastq files using “cd” and get the folder path using “pwd” 
+2. In cmd navigate to the folder with the fastq files using “cd” and get the folder path using “pwd” 
 
 `cd`
 
-3. Run the script
+3. Run the script in cmd
 
 `python cutadapt_batch-windows.py`
 
